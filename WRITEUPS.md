@@ -233,7 +233,7 @@ We go to the site, it tells a lot about robots which indicates we much look into
 
 this indicates that the User-agent must be WALL-E
 
-`$ curl https://robot-uprising.rvcechalls.xyz/robots.txt -H 'User-agent: WALL-E'
+`$ curl https://robot-uprising.rvcechalls.xyz/robots.txt -H 'User-agent: WALL-E`
 ```
 
         User-agent: *
